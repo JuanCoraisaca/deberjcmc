@@ -21,6 +21,8 @@ public class AutoControl {
     
     public List<Auto> listar(){
         return this.autoServicio.listar();
+        
+        
     }
     
 
